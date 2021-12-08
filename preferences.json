@@ -1,0 +1,11 @@
+{
+    "favourite_movie": "Prince_of_Percia",
+    "favourite_serial": "Friends",
+    "favourite_book": "Narnia",
+    "favourite_season": "summer",
+    "county": {
+        "Australia": "Sydney",
+        "Portugal": "Santiago",
+        "Slowakia": "Bratislava"
+    }
+}
