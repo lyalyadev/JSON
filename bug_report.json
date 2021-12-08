@@ -1,1 +1,19 @@
-
+{   
+    "ID": 123,
+    "Summary": "Resume expired session",
+    "Issue_type": "Error",
+    "Description": 
+        {
+            "Steps_to_reproduce": "1. Open general statistic
+                                2. Load some data
+                                3. Wait till session (authorization) expired
+                                4. Make some changes in parameters
+                                5. Try to load data",
+            "Actual_result": "the page is seen, user is loggeg in",
+            "Expected_result": "the start page is seen, a user is logged out"
+        },
+    "Priority": "Trivial",
+    "Assignee": "A.Ivanov",
+    "QA": "L.Samoilenko",
+    "Attachment": "123.jpeg"
+}
